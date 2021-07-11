@@ -1,10 +1,6 @@
 package Heap;
 
 import java.util.Arrays;
-import java.util.EmptyStackException;
-
-import javax.net.ssl.HostnameVerifier;
-
 
 public class MinHeap {
     HeapNode[] heap;
